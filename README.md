@@ -47,7 +47,6 @@ php artisan key:generate
 Serve the application on the PHP development server.
 
 ```
-npm run dev
 php artisan serve
 ```
 
